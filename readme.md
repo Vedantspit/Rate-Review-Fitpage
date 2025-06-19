@@ -107,7 +107,8 @@ npm start
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshot
+![image](https://github.com/user-attachments/assets/3db2a71d-4eca-4c31-808f-83a5d486aefa)
 
 
 ---
@@ -119,7 +120,6 @@ npm start
 
 ---
 
-## ✉️ Author
 
 **Vedant Deshmukh**
 
