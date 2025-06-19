@@ -40,7 +40,6 @@ rate-review-system/
 │   │   ├── App.js
 │   │   └── components/
 │   │       └── Card.jsx
-├── schema.sql
 ├── README.md
 ```
 
@@ -73,7 +72,7 @@ node index.js
 ```bash
 cd frontend
 npm install
-npm start
+npm run dev
 ```
 
 ---
