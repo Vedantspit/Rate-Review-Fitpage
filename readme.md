@@ -34,12 +34,12 @@ rate-review-system/
 │   │   ├── review.js
 │   │   └── summary.js
 │   ├── database.js
-│   └── uploads/  # for uploaded images
+│   └── uploads/  # stores uploaded images
 ├── frontend/
 │   ├── src/
 │   │   ├── App.js
 │   │   └── components/
-│   │       └── ProductCard.jsx
+│   │       └── Card.jsx
 ├── schema.sql
 ├── README.md
 ```
@@ -92,6 +92,7 @@ npm start
 ---
 
 ## 📄 Database Schema
+![image](https://github.com/user-attachments/assets/150fd666-944e-4595-89d1-2e457747c4a8)
 
 ### Tables:
 
@@ -113,7 +114,7 @@ npm start
 
 ## 📘 Notes
 
-- Review photos are stored locally in `backend/uploads` (use Cloudinary for production)
+- Review photos are stored locally in `backend/uploads` 
 - Top tags are extracted using NLP (via `natural` tokenizer)
 
 ---
